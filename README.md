@@ -1,27 +1,6 @@
-# Saphire - Free opensource cheat based on legendware sdk 
+## saphire (somewhat reworked legendware)
+> internal legit and rage cheat for cs:go 
 
-+ Changes
-  + Ragebot
-    + Improved aimbot
-    + Improved hitchace 
-    + Improved resolver
-    + Improved animation system 
-    + Reworked doubletap
-    
-  + Visuals
-    + Added new menu
-    + Added imgui render 
-    + Added blur by postprocessing 
-    + Added watermark selections
-    + Added player avatars in spectator list
-    
-  + Miscs
-    + Changed clantag
-    + Changed clientstate
-    + Reworked sdk
-    + Added cl_move hook
-    + Removed L3D451R7 antipaste
-    + Reworked setupbones
+## "soma projects" community servers
 
-    
-  
+- if you want other good sources [click here!](https://discord.gg/np3qN9sjCb)
